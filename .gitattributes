@@ -1,2 +1,2 @@
-GranTracker.windows.v1.0.0.zip filter=lfs diff=lfs merge=lfs -text
-GranTracker.macOS.v1.0.0.zip filter=lfs diff=lfs merge=lfs -text
+GranTracker.windows.v1.0.0.zip filter=lfs -diff
+GranTracker.macOS.v1.0.0.zip filter=lfs -diff
